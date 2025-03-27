@@ -4,10 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Math Quiz</title>
+    <title>Math Quiz - Aiden Ortiz</title>
 </head>
 <body>
     <h2>Math Quiz</h2>
+    <p><strong>Created by Aiden Ortiz</strong></p>
     
    <form action="#" method="post">
         <label for="username">Enter your name:</label>
@@ -32,7 +33,7 @@
         <input type="radio" id="q3c" name="q3" value="4"> <label for="q3c">4</label><br>
         
 <h3>Word Problem</h3>
-        <p>john has 15 apples he gives away 4 to his friend and eats 2. How many apples does he have left?</p>
+        <p>John has 15 apples. He gives away 4 to his friend and eats 2. How many apples does he have left?</p>
         <textarea id="wordProblem" name="wordProblem" rows="3" cols="40"></textarea>
         <br><br>
         
@@ -41,4 +42,5 @@
 </body>
 </html>
 <!-- End of Math Quiz Form -->
+
 
